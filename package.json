@@ -57,5 +57,16 @@
   "devDependencies": {
     "@types/lodash.debounce": "^4.0.7",
     "gh-pages": "^4.0.0"
+  },
+  "description": "Хостинг: https://NorreroRoshe.github.io/ReactPizza",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NorreroRoshe/ReactPizza.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NorreroRoshe/ReactPizza/issues"
   }
 }
